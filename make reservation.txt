@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+   <head>
+
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+</head>
+   <body>
+       <div class="container align-items-center">
+       <div class="jumbotron text-center">
+           <h1 class="display-4 fas fa-cannabis  ">Hot Resturant</h1>
+           <imple jumbotron-style component for calling extra attention to featured content or information.</p>
+           <hr class="my-4">
+           <p>We only have 5 tables! Book your seat before they all are gone!</p>
+           <a class="btn btn-primary btn-lg fas fa-calendar-alt" href="#" role="button"> View Tables</a>
+           <a class="btn btn-danger btn-lg fas fa-calendar-check" href="#" id="res" role="button"> Make Reservation</a>
+         </div>
+         <div class="row align-items-center">
+             <div class="col-md-12">
+               <a href="#" class="btn btn-primary stretched-link">API Table Link</a>
+               <a href="#" class="btn btn-primary stretched-link">API Wait  List</a>
+
+             </div>
+         </div>
+
+       </div>
+   </body>
+</html>

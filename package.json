@@ -1,0 +1,25 @@
+{
+  "name": "bamazonhw12",
+  "version": "1.0.0",
+  "description": "Homework 12 UPENN LPS Coding Bootcamp",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenDennehy95/bamazonHw12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OwenDennehy95/bamazonHw12/issues"
+  },
+  "homepage": "https://github.com/OwenDennehy95/bamazonHw12#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
